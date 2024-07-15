@@ -13,7 +13,7 @@ ClassiCube aims to replicate the 2009 Minecraft Classic client while offering **
 * Works with effectively all graphics cards that support OpenGL or Direct3D 9
 * Runs on Windows, macOS, Linux, Android, iOS, and in a web browser
 * Also runs on OpenBSD, FreeBSD, NetBSD, Solaris, Haiku, IRIX, SerenityOS
-* Although in various stages of early development, also runs on various consoles
+* Although in various stages of early development, also runs on various consoles c:
 
 </details>
 
