@@ -32,7 +32,7 @@ ICON0		:=	../misc/ps3/ICON0.png
 # options for code generation
 #---------------------------------------------------------------------------------
 
-CFLAGS		=	CFLAGS		=	-g3 -O1 -DPLAT_PS3 -Wall -mcpu=cell $(MACHDEP) $(INCLUDE)
+CFLAGS		=	CFLAGS = -g3 -O1 -DPLAT_PS3 -Wall -mcpu=cell $(MACHDEP) $(INCLUDE)
 CXXFLAGS	=	$(CFLAGS)
 
 LDFLAGS	=	$(MACHDEP) -Wl,-Map,$(notdir $@).map -fno-use-linker-plugin
